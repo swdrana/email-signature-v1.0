@@ -23,3 +23,9 @@ table{
 .bottom{
   height: 150px;
 }
+.profile-photo{
+}
+.bottom img{
+  height: 150px;
+  margin: 0 auto;
+}
