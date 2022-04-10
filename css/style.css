@@ -12,13 +12,10 @@ table{
   width: 600px;
   height: 200px;
   border: 1px solid black;
-  background-image: url(../img/Sprinkle.svg);
+  /* background-image: url(../img/Sprinkle.svg); */
 }
 .width-45{
   width: 45%;
-}
-.heading{
-  height: 30px;
 }
 .heading img{
   height: 20px;
